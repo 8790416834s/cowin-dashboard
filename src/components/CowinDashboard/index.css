@@ -1,0 +1,39 @@
+.dashboard-container {
+  padding: 50px;
+  background-color: #161625;
+  height: 200vh;
+}
+.main-heading {
+  color: #ffffff;
+}
+.logo-container {
+  display: flex;
+}
+.logo {
+  height: 35px;
+  width: 35px;
+}
+.logo-name {
+  color: #ffffff;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.main-heading {
+  color: #ffffff;
+}
+.loader {
+  text-align: center;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-img {
+  height: 350px;
+  width: 450px;
+}
+.failure-msg {
+  color: #ffffff;
+}
